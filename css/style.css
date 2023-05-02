@@ -1,0 +1,58 @@
+
+ *{
+  box-sizing: border-box;
+ }
+
+ a:link{
+  text-decoration: none;
+ }
+
+ .imgfondo{
+   background-image: url(../assets/img/hawaii.jpg);
+   height: 80vh;
+   background-position:center ;
+   background-size: cover;
+   margin-top: 4em;
+   background-color: rgb(83, 83, 83);
+   background-blend-mode: soft-light;
+
+ }
+ 
+ 
+ .java{
+  background-color: rgb(209, 209, 28);
+  font-size: xx-small;
+  margin-left: 0;
+  
+}
+.react{
+  background-color: rgb(99, 190, 206);
+  font-size: xx-small;
+}
+.negocios{
+  background-color: gray;
+  font-size: xx-small;
+}
+.start{
+  background-color: rgb(172, 5, 5);
+  font-size: xx-small;
+}
+ .card-text{
+text-align: left;
+ }
+ .card-title {
+  text-align: left;
+ }
+
+ #footer{
+  color:white;
+  background-color: #174d5e ;
+  padding:15px; 
+  text-align: center;
+ }
+   
+  
+ 
+ 
+
+ 
